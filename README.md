@@ -65,4 +65,4 @@
 
 本书内容版权归作者所有。本仓库内容仅用于学习交流，请勿商用。
 
-[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
