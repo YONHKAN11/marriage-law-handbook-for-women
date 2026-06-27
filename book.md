@@ -2,7 +2,7 @@
 title: 智慧女性婚姻幸福的36堂法律必修课
 author: 许乃义
 publisher: 中国法制出版社
-year: 2023
+year: 2026
 isbn: 978-7-5216-3644-4
 language: zh-CN
 category: 婚姻家事法律实务
